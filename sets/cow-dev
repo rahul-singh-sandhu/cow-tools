@@ -1,0 +1,11 @@
+app-eselect/eselect-repository
+app-portage/eix
+app-portage/gentoolkit
+app-portage/portage-utils
+dev-python/pylint
+dev-util/pkgdev
+dev-vcs/git
+net-libs/nodejs
+sys-devel/clang
+sys-process/lsof
+www-apps/hugo

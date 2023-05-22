@@ -1,0 +1,4 @@
+app-admin/sudo
+app-crypt/yubikey-manager
+net-firewall/firewalld
+sys-auth/pam_u2f

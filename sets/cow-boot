@@ -1,0 +1,4 @@
+app-crypt/sbctl
+app-crypt/sbsigntools
+app-crypt/tpm2-tools
+sys-apps/fwupd
