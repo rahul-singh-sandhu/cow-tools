@@ -22,7 +22,6 @@ media-video/v4l2loopback
 net-dns/bind-tools
 net-firewall/firewalld
 net-fs/nfs-utils
-net-im/discord
 net-im/skypeforlinux
 net-irc/weechat
 net-print/cups-pdf
