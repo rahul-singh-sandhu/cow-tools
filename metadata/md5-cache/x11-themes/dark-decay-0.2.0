@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DEPEND=x11-libs/gdk-pixbuf
+DESCRIPTION=Revamped Decay port to GTK!
+EAPI=8
+HOMEPAGE=https://github.com/decaycs/decay-gtk
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=x11-libs/gdk-pixbuf
+SLOT=0
+SRC_URI=https://codeload.github.com/decaycs/decay-gtk/tar.gz/refs/tags/v0.2.0 -> dark-decay-0.2.0.tar.gz
+_md5_=19c087ae3679507711d7f639b80c7086
