@@ -1,1 +1,2 @@
-amd64 cow/linux/amd64/desktop/systemd/clang/merged-usr stable
+amd64 hardened-systemd-merged-usr stable
+amd64 hardened-desktop-systemd-merged-usr stable
