@@ -1,0 +1,6 @@
+app-containers/docker
+app-containers/docker-compose
+net-firewall/firewalld
+net-fs/nfs-utils
+net-fs/samba
+www-servers/nginx

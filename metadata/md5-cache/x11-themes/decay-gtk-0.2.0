@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=x11-libs/gdk-pixbuf
 SLOT=0
 SRC_URI=https://codeload.github.com/decaycs/decay-gtk/tar.gz/refs/tags/v0.2.0 -> decay-gtk-0.2.0.tar.gz
-_md5_=972e57376ac5b1831bb5e1417ff367ec
+_md5_=ede836fe09db2a0823cca47e2dcf6818
